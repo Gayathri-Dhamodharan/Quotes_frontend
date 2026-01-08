@@ -1,4 +1,6 @@
- const api= 'http://localhost:5000/api/quotes';
+//  const api= 'http://localhost:5000/api/quotes';
+const api = "https://quotes-backend-1.onrender.com/api/quotes";
+
 
 const getQuotes=async()=>{
       const tableBody = document.getElementById("table");
