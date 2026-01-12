@@ -1,5 +1,5 @@
 //  const api= 'http://localhost:5000/api/quotes';
-const api = "https://quotes-backend-bjab.onrender.com/api/quotes";
+const api = "https://quotes-backend-euz9.onrender.com/api/quotes";
 
 
 const getQuotes=async()=>{
